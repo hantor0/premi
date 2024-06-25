@@ -1,0 +1,7 @@
+{
+  "bot_token": "bot_token",
+  "client_id": "1254457831826919564",
+  "guild_id": "1151942879091118080",
+  "mongodb_uri": "mongodb connection url",
+  "weather_api_key": "92074e481eb2485382a55957230602"
+}
